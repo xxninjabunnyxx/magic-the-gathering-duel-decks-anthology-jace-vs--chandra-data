@@ -1,0 +1,15 @@
+---
+object: set
+id: 37832684-2fe0-4b06-842b-eec06e5a17cb
+code: jvc
+name: 'Duel Decks Anthology: Jace vs. Chandra'
+uri: https://api.scryfall.com/sets/37832684-2fe0-4b06-842b-eec06e5a17cb
+scryfall_uri: https://scryfall.com/sets/jvc
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ajvc&unique=prints
+released_at: '2014-12-05'
+set_type: duel_deck
+card_count: 62
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/dd2.svg?1694404800
